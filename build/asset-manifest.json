@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/main.css",
+    "main.js": "/main.js",
+    "main.js.map": "/main.js.map",
+    "index.html": "/index.html",
+    "main.css.map": "/main.css.map",
+    "precache-manifest.5da19ee4deaf955b079961ee4543b243.js": "/precache-manifest.5da19ee4deaf955b079961ee4543b243.js",
+    "service-worker.js": "/service-worker.js"
+  }
+}
